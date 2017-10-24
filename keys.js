@@ -1,5 +1,3 @@
-
-```JavaScript
 console.log('this is loaded');
 
 exports.twitterKeys = {
@@ -8,4 +6,4 @@ exports.twitterKeys = {
   access_token_key: '3224868128-mpX8b55oudIp6GiMfxDaptN7lFziMY69HcIdnWW',
   access_token_secret: 'epWoBaMscc3hVrjLMaUQljdFbO1ccfAMrUHyAJo2YS5kn',
 }
-```
+
